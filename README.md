@@ -4,6 +4,10 @@
 
 This project explores and analyzes the marketing and purchase funnels of **Warby Parker**, a socially conscious eyewear brand known for its innovative try-before-you-buy strategy and online style quiz.
 
+---
+
+---
+
 ##  Project Objective
 
 The goal of this analysis is to:
