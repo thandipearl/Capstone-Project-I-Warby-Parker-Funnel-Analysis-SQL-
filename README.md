@@ -5,7 +5,7 @@
 This project explores and analyzes the marketing and purchase funnels of **Warby Parker**, a socially conscious eyewear brand known for its innovative try-before-you-buy strategy and online style quiz.
 
 ---
-
+![image alt](https://github.com/thandipearl/Capstone-Project-I-Warby-Parker-Funnel-Analysis-SQL-/blob/c61e727102e1f3fbd12463c8de0664c16fc18a7e/warby%20parker.png)
 ---
 
 ##  Project Objective
