@@ -53,7 +53,7 @@ The dataset is composed of four tables:
 | 3 Pairs          | 53.03%         |
 | 5 Pairs          | 79.25%         |
 
-** Insight:** Users offered **5 pairs** are significantly more likely to make a purchase. This indicates higher engagement and satisfaction when more options are available.
+**Insight:** Users offered **5 pairs** are significantly more likely to make a purchase. This indicates higher engagement and satisfaction when more options are available.
 
 ---
 
