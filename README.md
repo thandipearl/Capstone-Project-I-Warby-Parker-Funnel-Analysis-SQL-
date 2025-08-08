@@ -82,5 +82,4 @@ The dataset is composed of four tables:
 ---
 
 
-> **📂 Looking for more?**  
-> Project files for **User Churn Analysis** and **Marketing Attribution Modeling** are available upon request.
+
