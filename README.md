@@ -42,7 +42,7 @@ The dataset is composed of four tables:
 | Which colors do you like?        | 361       | 72.20%        |
 | When was your last eye exam?     | 270       | 54.00%        |
 
-** Insight:** Completion rates drop significantly after the second question, with the final question seeing only 54% completion. Personal or health-related questions may discourage users.
+**Insight:** Completion rates drop significantly after the second question, with the final question seeing only 54% completion. Personal or health-related questions may discourage users.
 
 ---
 
