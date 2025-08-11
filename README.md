@@ -83,5 +83,8 @@ The dataset is composed of four tables:
 
 ## Also view:
   [Marketing Attribution Analysis](https://github.com/thandipearl/CoolTShirts-Marketing-Attribution-Analysis-SQL)
+  
+  and
+  
   [Subscription Churn Analysis](https://github.com/thandipearl/Codeflix-Subscription-Churn-Analysis-SQL-) 
 
