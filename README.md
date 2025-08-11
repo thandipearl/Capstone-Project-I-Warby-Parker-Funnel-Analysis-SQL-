@@ -75,9 +75,9 @@ The dataset is composed of four tables:
 
 ##  Tools Used
 
-- SQL (MySQL)
-- Excel / Google Sheets (for % calculations and funnel visualization)
-- GitHub (for project versioning and documentation)
+- SQL 
+- Excel 
+
 
 ---
 
